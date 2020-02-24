@@ -15,3 +15,9 @@ The dashboard puts the data in table format.
 Once the data is in a table format, we can use pivot tables to create pivot charts. Since the data is in table format, any new rows will update the charts and dashboard
 
 The charts and tables are named, and then brought to the dashboard sheet where they are tied together with slices. The slices allow the user to select their filters which dynamically update the pivot charts as needed. 
+
+
+
+![Image description](https://github.com/Ghernandez1991/Excel-Dashboard/blob/master/image/image%201.PNG)
+![Image description](https://github.com/Ghernandez1991/Excel-Dashboard/blob/master/image/image%202.PNG)
+![Image description](https://github.com/Ghernandez1991/Excel-Dashboard/blob/master/image/image%203.PNG)
